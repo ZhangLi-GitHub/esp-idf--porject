@@ -1,0 +1,10 @@
+{
+    "idfSelectedId": "sha",
+    "idfInstalled": {
+        "sha": {
+            "targets": [
+                "esp32"
+            ]
+        }
+    }
+}
